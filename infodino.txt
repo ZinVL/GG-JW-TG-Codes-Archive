@@ -1,0 +1,323 @@
+Omega 09: -1508593356
+Indoraptor Gen 2: -959655851
+Indoraptor: 883871771
+Spinotasuchus: 673899032
+Dimetrocarnus: -1737804847
+Pachygalosaurus: 2639451
+Yudon: -1925448439
+Chromaspinus: -1570963456
+Scorpios Rex: -1515170250
+Cerazinosaurus: 1527506207
+Erliphosaurus: 1823466648
+Allonogmius: 1715886499
+Glythronax: -218653987
+Priotrodon: -1779841202
+Indominus Rex Gen 2: 194436811
+Indominus Rex: -147892553
+Rajastega: 1097349633
+Suprannotitan: -1157170275
+Spinoraptor: -1052162259
+Metrialong: 893259578
+Carnoraptor: 403122970
+Alangasaurus: -1550549753
+Blue: -1640810987
+Ghost: 752040276
+Toro: -1053503173
+Acrocanthosaurus: -1923421315
+Tarbosaurus: -430983708
+Proceratosaurus: -1560125181
+Tanycolagreus: 1436272509
+Concavenator: 320108132
+Oviraptor: -1778244387
+Baryonyx: -1990641468
+Metriacanthosaurus: -1028202083
+Troodon: 1938481426
+Dilophosaurus Gen 2: 206992864
+Edaphosaurus: -1157956613
+Spinosaurus Gen 2: 1155941169
+Secodontosaurus: 1829634238
+Sphenacodon: -874670586
+Cryolophosaurus: -900772437
+Megalosaurus: 581241791
+Albertosaurus: 772223371
+Deinonychus: -1410955683
+lythronax: -550468976
+Ceratosaurus: -928015656
+Yutyrannus: -348984074
+Gorgosaurus: -1112694027
+Tyrannosaurus Rex Gen 2: 397647001
+Tyrannosaurus Rex: 40481232
+Dimetrodon: -59391110
+Ostafrikasaurus: 1215039218
+Suchomimus: 1393042012
+Velociraptor Gen 2: -1934748652
+Velociraptor: -93170300
+Spinosaurus: -1232845953
+Rajasaurus: -1331163703
+Monolophosaurus: -134714335
+Ophiacodon: 296334992
+Pyroraptor: 156608990
+Carnotaurus: 1101086427
+Tyrannotitan: 1285400332
+Irritator: 274868500
+Allosaurus: 899619543
+Dilophosaurus: 428628137
+Giganotosaurus: 1828181319
+Utahraptor: 1566851148
+Guanlong: 824631109
+Majungasaurus: -1506057474
+
+Herbivores:
+
+Juggernaut 32: -998063698
+Gigakylocephalus: 751034065
+Monostegotops: -1994092941
+Armormata: 156445524
+Dracoceratops: 1748409810
+Segnosuchus: -24045446
+Iguanosuchus: -632627264
+Unayrhynchus: 370378159
+Ankylodocus: -1412657350
+Stegoceratops: 461260072
+Giganocephalus: -1520394299
+Parasaura: -187694959
+Pachyceratops: 121995842
+Ophoacomimus: -56755887
+Labyrinthosaurus: -718741931
+Bumpy: -1592891285
+Ankylosaurus Gen 2: -565939585
+Eolambia: -1911571793
+Stygimoloch: 126465803
+Apatosaurus: 1225863842
+Wuerhosaurus: -575092375
+Edmontosaurus: -825574828
+Brachiosaurus: -1440405685
+Amargasaurus: 1449929752
+Parasurolophus Gen 2: -1625353072
+Segnosaurus: 1521446454
+Triceratops Gen 2: 711962878
+Sonorasaurus: -785679876
+Sinoceratops: 167618100
+Nodosaurus: 1966297937
+Tsintaosaurus: 2055740954
+Antarctopelta: -1930745713
+Dracorex: -2057755024
+Zalmoxes: -715461922
+Erlikosaurus: -1196263296
+Iguanodon: 22354924
+Struthiomimus: 178485341
+Pachyrhinosaurus: 1481742726
+Einiosaurus: -1180410511
+Kentrosaurus: 1025144099
+Deinocheirus: 1962465506
+Therizinosaurus: -1743931416
+Shunosaurus: -65947382
+Unaysaurus: 1713688563
+Ankylosaurus: -543227015
+Stegosaurus: -1779588126
+Supersaurus: 1212583965
+Eu plocephalus: 1884519706
+Parasaurolophus: 2007482531
+Corythosaurus: -1478947770
+Diplodocus: 367404677
+Pachycephalosaurus: 1966720555
+Nasutoceratops: -851099630
+Gallimimus: 1365354040
+Pelecanimimus: 717706909
+Argentinosaurus: 593764913
+Triceratops: -670191440
+Bonitasaura: 828689896
+Toujiangosaurus: -821387451
+
+Pterosaurs:
+
+Valkyrie 77: 1237788383
+Tapejalocephalus: -1018223924
+Pelecachtylus: -716312085
+Metriaphodon: 1692405504
+Cryolobourgiania: -1582361500
+Zalmonodon: -1705002253
+Pteraquetzal: -365098277
+Suchoripterus: 1654215819
+Tropeogopterus: 213283072
+Tapejalosaurus: 1497467848
+Pelecanipteryx: -60998544
+Pterodactylus: -968779196
+Pterodaustro: 446142347
+Eudimorphodon: -431140899
+Limnorhynchus: -782527033
+Pteranodon Gen 2: -1001234550
+Ornithocheirus: 708336235
+Tupandactylus: 305981254
+Tupuxuara: 2043290788
+Thalassodremius: -515569
+Arambourgiania: -574778929
+Darwinopterus: -99634386
+Scaphonagtus: -1188317494
+Dimorphodon: 991406221
+Pteranodon: -779586877
+Aerotitan: 2010238695
+Quetzalcoatlus: -1758792470
+Zhejiangopterus: 1791880700
+Rhamphorhynchus: -2075709758
+Dsungaripterus: -987723353
+Tapejara: -69653029
+Hatzegopteryx: -1738689014
+Coloborhynchus: 966199354
+Tropeognathus: 65958984
+Alanqa: 669609303
+
+Amphibians: 
+
+Salamander 16: -1863210213
+Diplosuchus: -336036848
+Bagehesaurus: 1952162803
+Gorgosuchus: 1148247156
+Ostaposaurus: -175221467
+Koolasaurus: 51859746
+Nundagosaurus: -704664302
+Diplotator: 1973217715
+Metoposaurus: -267990070
+Mastodonsaurus: -1105140581
+Prestosuchus: -1466238418
+Kaprosuchus Gen 2: -1352508046
+Gryposuchus: -1574880774
+Bageherpeton: 1258282711
+Proterogyrinus: -1988877534
+Diploceraspis: -1166911140
+Deinosuchus: 1564255850
+Eryops: 2069924717
+Acanthostega: -1391829152
+Sarcosuchus: -2121385870
+Ichthyostega: -357253751
+Prionosuchus: 1712642478
+Microposaurus: 961968637
+Kaprosuchus: 1205504321
+Postosuchus: 2059535625
+Metriorhynchus: 914746593
+Nundasuchus: 765061825
+Koolasuchus: 624485828
+Labyrinthhodontia: 1642788664
+Diplocaulus: -1122001595
+Limnoscelis: 407190503
+
+Surfaces: 
+
+Dunkleosaurus: 613996072
+Megarchelion: 785006804
+Xinathodon: 77664121
+Hainosaurus: 467098229
+Tylosaurus: 1398946454
+Plotosaurus: 1134352729
+Edestus: -119647718
+Platecarpus: -1141247809
+Mosasaurus Gen 2: -1635999394
+Mosasaurus: 1992586605
+Styxosaurus: 948412072
+Kaiwhekea: -30666063
+Megalodon: -1586065800
+Plesiosaurus: -2051495450
+Mauisaurus: 104515922
+Helicoprion: 1353460577
+Elasmosaurus: 1121391763
+Prognathodon: 738704588
+Onchopristis: -277970098
+
+Reefs:
+
+Gillirhynchops: 1459515785
+Leptostega: -798039628
+Rhomaleosaurus: -1574275586
+Henodus: 594319929
+Umoonasaurus: -680550807
+Temnodontosaurus: 931389832
+Ophthalmosaurus: 389296485
+Archelon: 1134792353
+Liopleurodon: 944371444
+Kronosaurus: 540919165
+Hauffiosaurus: 590865482
+Pliosaurus: 1020658397
+Psephoderma: -409183818
+Trinacromerum: -100031873
+Dolichorhynchops: -186713791
+Leptocleidus: 305008788
+Protostega: 396189273
+
+Caves:
+
+Hynecoprion: -75947127
+Liosichtodon: 1397156379
+Geolasmosaurus: 1046841848
+Dakoderma: 1240872332
+Orthacanthus: -1502271622
+Tusoteuthis: -1489819329
+Giant Orthocone: 1124512546
+Plesiosuchus: -2051495450
+Bananogmius: 1530026786
+Suchodus: -1765030566
+Gillicus: 934303124
+Dunkleosteus: 950565415
+Leedsichthys: -1789136650
+Hyneria: 899697514
+Ammonite: 1753442943
+Rhizodus: 1062492190
+Baculites: -716348083
+Geosaurus: -2092443334
+Xiphactinus: -180341431
+Dakosaurus: 1763310270
+
+Snows:
+
+Rhinoprotodon: -1265948185
+Smithetoceras: -2078662216
+Thylacosmilus: -240406446
+Woolly Mammoth: -1740156257
+Mastodon: -1105140581
+Woolly Rhinoceros: -1294393739
+Arctodus: 1631621154
+Mylodon: -1398033892
+Smilodon: 1107178272
+Cervalces: 689362882
+Eucladoceros: -363122807
+Marsupial Lion: -924081836
+Diprotodon: -270396296
+Megaloceros: 1058151387
+Synthetoceras: 1745174245
+Deinotherium: 1903910004
+Sarkastodon: 966987009
+
+Savnnahs: 
+
+Mammotherium: -1051584817
+Indricoceros: 1734888078
+Entelorhacos: 756797681
+Brontotherium: 779908489
+Procoptodon: -243375428
+Urtinotherium: 391343941
+Gastornis: 1909407380
+Kelenken: 721108216
+Uintatherium: 1074417044
+Indricotherium: 123636838
+Phorusrhacos: 1751753707
+Entelodon: 1350322905
+Archaeotherium: -1788306124
+Elasmotherium: -592215760
+
+Caverns: 
+
+Dilophoboa: -1269895908
+Andrewtherium: 1028936594
+Archaeophicyon: -2080931006
+Megistocurus: -1173248534
+Hyaenodon: -2063805018
+Panochthus: -2004097604
+Titanoboa: -380302569
+Carbonemys: -1137197151
+Megatherium: -1962550559
+Gigantophis: 1336203057
+Glyptodon: 122252079
+Andrewsarchus: 117747839
+Eremotherium: 513419020
+Doedicurus: 413525642
+Amphicyon: -332037305
+Megistotherium: 1297895624
